@@ -123,7 +123,7 @@ All AC Mains is safely and galvanically isolated using a low voltage transformer
 
 ### Where can IPEM NB-IoT be used?
 
-The IPEM  Plus board can be used in a number of projects and installations such as:
+The IPEM  NB-IoT board can be used in a number of projects and installations such as:
 
 -   Homes
     
