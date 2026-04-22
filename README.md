@@ -160,6 +160,7 @@ The IPEM  NB-IoT board can be used in a number of projects and installations suc
 
 ## Updates
 
+-   26-04-22 - SIM7000G changed to SIM7070G.  This provides full compatibility but with improved specification.
 -   26-04-18 - Target Manufacture June 2026
 -   26-04-18 - Project Information Review
 -   26-04-02 - In Beta Development 
