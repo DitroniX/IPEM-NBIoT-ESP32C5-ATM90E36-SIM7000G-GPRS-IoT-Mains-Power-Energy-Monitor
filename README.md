@@ -21,7 +21,15 @@ The new **IPEM NB-IoT** STEM board has been launched, with expected availability
 
 ### NB-IoT Technology
 
-The **IPEM NB-IoT** incorporates the SIM7070G, compact, low-power, global multi-band cellular module, which support NB-IoT, Cat-M (LTE-M), and GPRS (2G) technologies.   It also includes a GNSS receiver for GPS, GLONASS, Galileo and BeiDou, satellite positioning.
+The **IPEM NB-IoT** incorporates the SIM7070G, compact, low-power, global multi-band cellular module, which support NB-IoT, Cat-M (LTE-M), and GPRS (2G) technologies.  
+
+### Integrated GNSS for Satellite Navigation
+
+The SIM7070G also includes a GNSS receiver for GPS, GLONASS, Galileo and BeiDou, Satellite positioning.
+
+### Supported Protocols
+
+Protocols supported include: TCP, UDP, HTTP, HTTPS, TLS, DTLS, FTP, PING, LWM2M, COAP and MQTT
 
 
 ### Standalone or Integrated Remote
