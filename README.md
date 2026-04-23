@@ -11,11 +11,26 @@
 
 ![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
 
+[Learn more about NB-IoT](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F)
+
 ## Welcome to IPEM NB-IoT
 
 The new **IPEM NB-IoT** STEM board has been launched, with expected availability in June.
 
-**IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-a-Power-Energy-Monitor%3F) Board, and Kit.
+**IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F) Board, and Kit.
+
+### NB-IoT Technology
+
+The **IPEM NB-IoT** incorporates the SIM7070G, which is a compact, low-power, global multi-band cellular module, supporting NB-IoT, Cat-M (LTE-M), and GPRS (2G) technologies.  
+
+### Integrated GNSS for Satellite Navigation
+
+The SIM7070G also includes a GNSS receiver for GPS, GLONASS, Galileo and BeiDou, Satellite positioning.
+
+### Supported Protocols
+
+Protocols supported include: TCP, UDP, HTTP, HTTPS, TLS, DTLS, FTP, PING, LWM2M, COAP and MQTT
+
 
 ### Standalone or Integrated Remote
 
@@ -23,11 +38,9 @@ The new **IPEM NB-IoT** STEM board has been launched, with expected availability
 
 The **IPEM NB-IoT** is a 'standalone board', where its ESP32-C5, interfaces with ESPHome firmware (as an example).. If preferred, you could easily send MQTT messages.  As it is ESP based, it will just power up and work.  No waiting to boot up.
 
-![IPEM NBIoT Preview](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/IPEM%20NBIoT-%20Overview.png)
+**IPEM NB-IoT** can run locally, such as via Home Assistant, Domoticz etc., or via an IoT remote service, or gateway to your system. It is totally down the user as to which option is taken.
 
-**IPEM NB-IoT** runs locally, or via Home Assistant, Domoticz etc., or via an IoT remote service. 
-
-It is totally down the user as to which option is taken. Firmware is developed for example using Arduino IDE, PlatformIO (VS Code), ESP-IDF or ESPHome. Other local/remote platforms which have been used also include LabVIEW and Zabbix. Using the NB-IoT integration, MQTT type messages could be integrated locally or remotely. 
+Firmware is typically developed for example, using Arduino IDE, PlatformIO (VS Code), ESP-IDF or ESPHome. Other local/remote platforms which have been used for other IPEM boards also include LabVIEW and Zabbix. Using the NB-IoT integration, MQTT type messages could be integrated locally, or remotely, or both.
 
 Using the [RS485 interface](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/RS%E2%80%90485), messages could also be sent locally over a 'twisted pair', up to typical maximum distance of 1,200 meters (4000 feet). This is ideal for local hard wired installations where multiple **IPEM NB-IoT** boards, and other RS485 devices, could sit on the same multi-point network.
 
@@ -35,7 +48,7 @@ Configuration has been designed to be flexible but as easy as possible to implem
 
 **Home | Industry | Housing | Educational | Farming | Agriculture | Solar | Energy**
 
-Using its 2.4GHz and 5GHz Wi-Fi, Thread and Zigbee ESP32-C5 radio module, you can use the **IPEM NB-IoT** to connect to a whole range of Smart Monitoring applications and projects.
+Using its 2.4GHz and 5GHz Wi-Fi, Thread and Zigbee ESP32-C5 radio module, you can use **IPEM NB-IoT** to connect to a whole range of Smart Monitoring applications and projects.
 
 Extending further, the built-in GPRS NB-IoT GSM radio opens up long range and fully remote monitoring.
 
@@ -123,7 +136,7 @@ All AC Mains is safely and galvanically isolated using a low voltage transformer
 
 ### Where can IPEM NB-IoT be used?
 
-The IPEM  NB-IoT board can be used in a number of projects and installations such as:
+The IPEM  NB-IoT board maybe used in a number of projects and installations such as:
 
 -   Homes
     
@@ -155,9 +168,6 @@ The IPEM  NB-IoT board can be used in a number of projects and installations suc
 
 - Remote and/or Hill Top Sites
 
-
-
-
 ## Updates
 
 -   26-04-22 - SIM7000G changed to SIM7070G.  This provides full compatibility but with improved specification.
@@ -168,7 +178,7 @@ The IPEM  NB-IoT board can be used in a number of projects and installations suc
 
 ## Preliminary Information and Spec to follow 
 
-[Feature List Comparison](https://github.com/DitroniX/IPEM-Plus-ESP32-C5-LoRa-LoRaWAN-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
+[Feature List Comparison](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/Compare-Mains-Power-IoT-Energy-Monitors)
 
 ### Availability
 
