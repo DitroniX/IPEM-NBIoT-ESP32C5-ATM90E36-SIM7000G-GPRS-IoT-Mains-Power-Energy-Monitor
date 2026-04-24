@@ -17,7 +17,7 @@
 
 The new **IPEM NB-IoT** STEM board has been launched, with expected availability in June.
 
-**IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F) Board, and Kit.
+**IPEM NB-IoT**  is a self-contained, powerful ATM90E36 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F) Board, and Kit.  No soldering required.
 
 ### NB-IoT Technology
 
