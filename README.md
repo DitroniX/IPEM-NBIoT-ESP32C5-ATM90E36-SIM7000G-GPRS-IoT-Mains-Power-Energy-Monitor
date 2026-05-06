@@ -1,5 +1,5 @@
 
-# IPEM NBIoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT Mains Power Energy Monitor
+# IPEM NBIoT | ESP32C5 ATM90E36 SIM7070G GPRS IoT LTE-M GNSS Mains Power Energy Monitor
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
@@ -17,7 +17,7 @@
 
 The new **IPEM NB-IoT** STEM board has been launched, with expected availability in June.
 
-**IPEM NB-IoT**  is a powerful ATM90E36 Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F) Board, and Kit.
+**IPEM NB-IoT**  is a self-contained, powerful ATM90E36 based, Smart Home and Industry Automation, Real-Time [Mains Power Energy Monitor](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F) Board, and Kit.  No soldering required.
 
 ### NB-IoT Technology
 
@@ -30,6 +30,12 @@ The SIM7070G also includes a GNSS receiver for GPS, GLONASS, Galileo and BeiDou,
 ### Supported Protocols
 
 Protocols supported include: TCP, UDP, HTTP, HTTPS, TLS, DTLS, FTP, PING, LWM2M, COAP and MQTT
+
+### AT Commands
+
+The **IPEM NB-IoT** SIM7070G is controlled via a comprehensive set of AT commands.  This makes firware development easier by handling complex network protocols internally.
+
+Control of the SIM7070G is straight forward using Arduino IDE, or PlatformIO.  
 
 
 ### Standalone or Integrated Remote
@@ -170,6 +176,7 @@ The IPEM  NB-IoT board maybe used in a number of projects and installations such
 
 ## Updates
 
+-   26-05-04 - Proto Production boards stage, in preperation for the Manufacture in June 2026.
 -   26-04-22 - SIM7000G changed to SIM7070G.  This provides full compatibility but with improved specification.
 -   26-04-18 - Target Manufacture June 2026
 -   26-04-18 - Project Information Review
