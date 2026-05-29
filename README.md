@@ -13,6 +13,8 @@
 
 [Learn more about NB-IoT](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki/What-is-NB%E2%80%90IoT%3F)
 
+![LTE-M NB-IoT ](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/LTE-M%20NB-IoT%20Logo.png)
+
 ## Welcome to IPEM NB-IoT
 
 The new **IPEM NB-IoT** STEM board has been launched, with expected availability in June.
