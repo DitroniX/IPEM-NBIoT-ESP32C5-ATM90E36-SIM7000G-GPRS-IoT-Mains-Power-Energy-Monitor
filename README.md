@@ -179,6 +179,7 @@ The IPEM  NB-IoT board maybe used in a number of projects and installations such
 
 ## Updates
 
+-   26-06-06 - Boards in Proto Production.  Estimated availability end of June.
 -   26-05-30 - The IPEM NB-IoT proto manufacture will be early June. Full production hopefully late June.
 -   26-05-04 - Proto Production boards stage, in preperation for the Manufacture in June 2026.
 -   26-04-22 - SIM7000G changed to SIM7070G.  This provides full compatibility but with improved specification.
