@@ -6,6 +6,7 @@
 **Pre-Release Information.
 
 [![DitroniX WiKi Pages](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/wiki)
+[![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor/discussions)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/IPEM-NBIoT-ESP32C5-ATM90E36-SIM7070G-GPRS-IoT-Mains-Power-Energy-Monitor?tab=readme-ov-file#updates)
 
@@ -178,6 +179,7 @@ The IPEM  NB-IoT board maybe used in a number of projects and installations such
 
 ## Updates
 
+-   26-06-06 - Boards in Proto Production.  Estimated availability end of June.
 -   26-05-30 - The IPEM NB-IoT proto manufacture will be early June. Full production hopefully late June.
 -   26-05-04 - Proto Production boards stage, in preperation for the Manufacture in June 2026.
 -   26-04-22 - SIM7000G changed to SIM7070G.  This provides full compatibility but with improved specification.
