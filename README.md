@@ -62,6 +62,9 @@ The SIM7070G also includes a GNSS receiver for GPS, GLONASS, Galileo and BeiDou,
     
 -   The board can  **safely monitor a range of mains AC circuits**, from Single phase, Split or Dual phase (such as USA), and both types of Three phase, Star and Delta. Full 50 Hz and 60 Hz.
 
+### ATM90E32 Variant
+An ATM90E32AS version of **IPEM NB=IoT** could be provided, if required.  
+
 ### SIM7070G AT Commands
 
 The  **IPEM NB-IoT**  SIM7070G is controlled via a comprehensive set of AT commands. This makes firmware development easier by handling complex network protocols internally.
